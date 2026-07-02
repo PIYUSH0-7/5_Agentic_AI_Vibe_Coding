@@ -2,9 +2,9 @@
 
 ## 💡 Technical Thought of the Day
 
-Mindmap vector databases, embeddings, chunks, metadata filtering, and reranking mechanisms.
+A mindmap for Agentic AI provides a conceptual architecture, illustrating the intricate orchestration of LLMs, memory modules, tool-use strategies, and feedback loops essential for building truly autonomous systems.
 
-*Daily Insight:* Refactor design patterns to improve scalability and maintainability.
+*Daily Insight:* Create a mindmap detailing the decision-making process of an AI agent, including its observation, reasoning, action, and reflection steps.
 
 <!-- THOUGHT_END -->
 

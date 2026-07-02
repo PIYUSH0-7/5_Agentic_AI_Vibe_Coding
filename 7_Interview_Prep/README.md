@@ -2,9 +2,9 @@
 
 ## 💡 Technical Thought of the Day
 
-Practice designing system prompts, parsing strategies, and agent tools.
+Agentic AI interview preparation involves demonstrating a deep grasp of LLM capabilities, prompt engineering principles, agentic architectures, and the practical challenges of deploying intelligent systems reliably.
 
-*Daily Insight:* Optimize memory usage, garbage collection overhead, and resource disposal.
+*Daily Insight:* Practice designing a detailed system prompt for a specific agentic task, including persona, constraints, tools, and output format.
 
 <!-- THOUGHT_END -->
 

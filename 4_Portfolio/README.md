@@ -2,9 +2,9 @@
 
 ## 💡 Technical Thought of the Day
 
-Showcase demo videos of your agents executing multi-step workflows autonomously.
+Your Agentic AI portfolio should powerfully illustrate the practical impact of your autonomous systems, showcasing elegant prompt designs, effective tool integrations, and demonstrable solutions to common AI challenges like hallucination or loop detection.
 
-*Daily Insight:* Practice active learning by revising core concepts and teaching peers.
+*Daily Insight:* Include clear explanations of the agent's reasoning process, memory management, and how you implemented safety features in your portfolio projects.
 
 <!-- THOUGHT_END -->
 

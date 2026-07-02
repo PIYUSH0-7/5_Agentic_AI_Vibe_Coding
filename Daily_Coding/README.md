@@ -2,9 +2,9 @@
 
 ## 💡 Technical Thought of the Day
 
-Create minor automations daily, learning to integrate models with filesystems, shells, and web search.
+Daily agentic AI coding involves continuous experimentation with prompt variations, tool integrations, and feedback loops, building an intuitive understanding of how to guide and constrain autonomous systems effectively.
 
-*Daily Insight:* Plan your weekly milestones, track progress velocity, and address blockers.
+*Daily Insight:* Each day, implement a small script that leverages an LLM to perform a specific task, focusing on precise prompt engineering and structured output parsing.
 
 <!-- THOUGHT_END -->
 

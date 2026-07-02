@@ -2,9 +2,9 @@
 
 ## 💡 Technical Thought of the Day
 
-Understand caching strategies for LLM responses (e.g., GPTCache) and efficient batch generation.
+Agentic AI system design notes meticulously document architectural decisions for scalable, reliable, and cost-effective intelligent systems, considering LLM interactions, data flows, and emergent behavior.
 
-*Daily Insight:* Ensure clear, self-documenting code style with meaningful variable naming.
+*Daily Insight:* For a system design scenario involving AI agents, detail how you would implement robust error handling, retry mechanisms, and human-in-the-loop interventions.
 
 <!-- THOUGHT_END -->
 

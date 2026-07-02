@@ -2,9 +2,9 @@
 
 ## 💡 Technical Thought of the Day
 
-Tell stories of how you designed self-correcting agents or solved AI hallucination issues in production.
+Your behavioral stories for Agentic AI should compellingly narrate instances where you tackled the inherent unpredictability of AI, designing systems for robustness, cost-efficiency, and user safety.
 
-*Daily Insight:* Practice active learning by revising core concepts and teaching peers.
+*Daily Insight:* Craft a STAR story about a time you had to implement a clever workaround or fallback mechanism when an AI agent failed to perform as expected.
 
 <!-- THOUGHT_END -->
 
