@@ -2,9 +2,9 @@
 
 ## 💡 Technical Thought of the Day
 
-Be ready to explain the trade-offs of fine-tuning a model vs. implementing a RAG pipeline.
+Practice designing system prompts, parsing strategies, and agent tools.
 
-*Daily Insight:* Practice active learning by revising core concepts and teaching peers.
+*Daily Insight:* Optimize memory usage, garbage collection overhead, and resource disposal.
 
 <!-- THOUGHT_END -->
 

@@ -2,7 +2,7 @@
 
 ## 💡 Technical Thought of the Day
 
-Refine your explanation of cost-efficient AI system design.
+Record mocks focused on explaining system prompts, vector embeddings, and agent orchestration.
 
 *Daily Insight:* Test thoroughly for edge cases, null values, and boundary conditions.
 

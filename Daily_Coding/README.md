@@ -4,7 +4,7 @@
 
 Create minor automations daily, learning to integrate models with filesystems, shells, and web search.
 
-*Daily Insight:* Practice active learning by revising core concepts and teaching peers.
+*Daily Insight:* Plan your weekly milestones, track progress velocity, and address blockers.
 
 <!-- THOUGHT_END -->
 

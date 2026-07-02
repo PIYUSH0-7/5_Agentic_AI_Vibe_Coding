@@ -2,9 +2,9 @@
 
 ## 💡 Technical Thought of the Day
 
-Design scalable LLM systems considering rate limits, latency bottlenecks, and vector database clustering.
+Understand caching strategies for LLM responses (e.g., GPTCache) and efficient batch generation.
 
-*Daily Insight:* Practice active learning by revising core concepts and teaching peers.
+*Daily Insight:* Ensure clear, self-documenting code style with meaningful variable naming.
 
 <!-- THOUGHT_END -->
 

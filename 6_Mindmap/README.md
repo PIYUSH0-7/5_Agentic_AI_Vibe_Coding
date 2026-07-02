@@ -4,7 +4,7 @@
 
 Mindmap vector databases, embeddings, chunks, metadata filtering, and reranking mechanisms.
 
-*Daily Insight:* Practice active learning by revising core concepts and teaching peers.
+*Daily Insight:* Refactor design patterns to improve scalability and maintainability.
 
 <!-- THOUGHT_END -->
 

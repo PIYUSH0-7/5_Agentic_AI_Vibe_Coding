@@ -4,7 +4,7 @@
 
 Showcase demo videos of your agents executing multi-step workflows autonomously.
 
-*Daily Insight:* Test thoroughly for edge cases, null values, and boundary conditions.
+*Daily Insight:* Practice active learning by revising core concepts and teaching peers.
 
 <!-- THOUGHT_END -->
 
