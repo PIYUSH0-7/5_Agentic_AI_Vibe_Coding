@@ -2,9 +2,9 @@
 
 ## 💡 Technical Thought of the Day
 
-Mock interview logs are crucial for refining your ability to clearly articulate complex Agentic AI concepts, from prompt chaining strategies to the nuances of vector database retrieval and agent safety.
+Record mocks focused on explaining system prompts, vector embeddings, and agent orchestration.
 
-*Daily Insight:* Review your mock interview recordings to analyze how effectively you communicate the challenges and solutions related to LLM context window limitations.
+*Daily Insight:* Optimize memory usage, garbage collection overhead, and resource disposal.
 
 <!-- THOUGHT_END -->
 

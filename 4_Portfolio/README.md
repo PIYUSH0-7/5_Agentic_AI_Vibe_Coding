@@ -2,9 +2,9 @@
 
 ## 💡 Technical Thought of the Day
 
-Your Agentic AI portfolio should powerfully illustrate the practical impact of your autonomous systems, showcasing elegant prompt designs, effective tool integrations, and demonstrable solutions to common AI challenges like hallucination or loop detection.
+Explain how you resolved common agent issues like loop detection and token window overflow.
 
-*Daily Insight:* Include clear explanations of the agent's reasoning process, memory management, and how you implemented safety features in your portfolio projects.
+*Daily Insight:* Test thoroughly for edge cases, null values, and boundary conditions.
 
 <!-- THOUGHT_END -->
 
