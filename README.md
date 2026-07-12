@@ -4,7 +4,7 @@
 
 Always implement strong guardrails, tool sandboxes, and verification loops when deploying autonomous agents.
 
-*Daily Insight:* Plan your weekly milestones, track progress velocity, and address blockers.
+*Daily Insight:* Refactor design patterns to improve scalability and maintainability.
 
 <!-- THOUGHT_END -->
 
