@@ -4,7 +4,7 @@
 
 Agentic AI is shifting the paradigm from manual coding to orchestration; coding with AI requires critical validation and testing.
 
-*Daily Insight:* Refactor design patterns to improve scalability and maintainability.
+*Daily Insight:* Practice active learning by revising core concepts and teaching peers.
 
 <!-- THOUGHT_END -->
 
