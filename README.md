@@ -4,7 +4,7 @@
 
 A good agent developer is a rigorous code reviewer: read generated code carefully and test all edge cases.
 
-*Daily Insight:* Plan your weekly milestones, track progress velocity, and address blockers.
+*Daily Insight:* Focus on reducing algorithmic complexity and optimizing critical paths.
 
 <!-- THOUGHT_END -->
 
